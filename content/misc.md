@@ -15,7 +15,7 @@ Here are some other details about me.
 - [Mar 2019--Mar 2022] Postdoc, [ALIN Lab](https://alinlab.kaist.ac.kr)@KAIST (Host: [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html))
 - [May 2013--Jul 2013] ASAN fellow, [Center for data analysis](https://www.heritage.org/center-data-analysis)@[The Heritage Foundation](https://www.heritage.org) (Supervisor: [James Sherk](https://www.heritage.org/staff/james-sherk) and [Salim Furth](https://www.heritage.org/staff/salim-furth)).
 
-# Tecching
+# Teaching
 - TA, ECE563 [Information theory](http://maxim.ece.illinois.edu/teaching/fall17/index.html), UIUC, Fall 2017.
 - TA, ECE498 [Introduction to stochastic systems](https://courses.engr.illinois.edu/ece498mr/sp2017/), UIUC, Spring 2017.
 - TA, ECE598 [Statistical learning theory](http://maxim.ece.illinois.edu/teaching/fall15b/index.html), UIUC, Fall 2015.
