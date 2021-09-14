@@ -1,30 +1,25 @@
-baseURL = "https://jaeho-lee.github.io"
+baseURL = 'https://jaeho-lee.github.io/'
+languageCode = 'en-us'
+title = "Jaeho Lee"
 theme = "risotto"
-title = "risotto demo"
-author = "Joe Roe"
-copyright = "© 2021 Joe Roe"
 paginate = 3
-languageCode = "en"
 DefaultContentLanguage = "en"
-enableInlineShortcodes = true
-# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
-# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
-ignoreErrors = ["error-remote-getjson"]
+# enableInlineShortcodes = true
+# ignoreErrors = ["error-remote-getjson"]
 
-# Automatically add content sections to main menu
 sectionPagesMenu = "main"
 
 [params]
 
 [params.theme]
 palette = "gruvbox-dark"
-mode = "dark-mode"
+mode = "light-mode"
 
 # Sidebar: about/bio
 [params.about]
-title = "risotto"
-description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
-logo = "images/rice.svg"
+title = "Jaeho Lee"
+description = "Machine learning researcher (who also teaches)."
+#logo = "images/rice.svg"
 
 # Sidebar: social links
 # Available icon sets:
@@ -32,60 +27,73 @@ logo = "images/rice.svg"
 # * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
 
 [[params.socialLinks]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/joeroe/risotto"
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/jaeho_lee_"
 
 [[params.socialLinks]]
 icon = "fas fa-envelope"
 title = "Email"
-url = "mailto:example@example.com"
+url = "mailto:jaeho-lee@kaist.ac.kr"
 
-[[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
+#[[params.socialLinks]]
+#icon = "ai ai-google-scholar"
+#title = "Google Scholar"
+#url = "https://scholar.google.com/citations?hl=en&user=t91zoQMAAAAJ&view_op=list_works&sortby=pubdate"
 
 [menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
+[[menu.main]]
+identifier = "papers"
+name = "Papers"
+url = "/papers/"
+weight = 1
 
-[taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
+[[menu.main]]
+identifier = "students"
+name = "Prospective Students"
+url = "/candidates/"
+weight = 2
+
+[[menu.main]]
+identifier = "misc"
+name = "misc."
+url = "/misc/"
+weight = 3
+
+
+#[taxonomies]
+#category = "categories"
+#tag = "tags"
+#series = "series"
 
 # For hugo >= 0.60.0, enable inline HTML
 [markup.goldmark.renderer]
 unsafe = true
 
-[privacy]
+#[privacy]
 
-  [privacy.vimeo]
-    disabled = false
-    simple = true
+#  [privacy.vimeo]
+#    disabled = false
+#    simple = true
 
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
+#  [privacy.twitter]
+#    disabled = false
+#    enableDNT = true
+#    simple = true
 
-  [privacy.instagram]
-    disabled = false
-    simple = true
+#  [privacy.instagram]
+#    disabled = false
+#    simple = true
 
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
+#  [privacy.youtube]
+#    disabled = false
+#    privacyEnhanced = true
 
-[services]
+#[services]
 
-  [services.instagram]
-    disableInlineCSS = true
+#  [services.instagram]
+#    disableInlineCSS = true
 
-  [services.twitter]
-    disableInlineCSS = true
+#  [services.twitter]
+#    disableInlineCSS = true
