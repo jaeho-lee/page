@@ -10,7 +10,7 @@ Here are some other details about me.
 - [2013--2015] M.S., ECE@UIUC (Advisor: Maxim Raginsky).
 - [2009--2012] B.S., {EE,MS}[^1]@KAIST with _summa cum laude_ (Advisor: Yung Yi).
 
-# Work Experience
+# Work experience
 
 - [Mar 2019--Mar 2022] Postdoc, [ALIN Lab](https://alinlab.kaist.ac.kr)@KAIST (Host: [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html))
 - [May 2013--Jul 2013] ASAN fellow, [Center for data analysis](https://www.heritage.org/center-data-analysis)@[The Heritage Foundation](https://www.heritage.org) (Supervisor: [James Sherk](https://www.heritage.org/staff/james-sherk) and [Salim Furth](https://www.heritage.org/staff/salim-furth)).
