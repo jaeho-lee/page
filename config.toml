@@ -18,7 +18,9 @@ mode = "light-mode"
 # Sidebar: about/bio
 [params.about]
 title = "Jaeho Lee"
-description = "Machine learning researcher (who also teaches)."
+description = """Machine learning researcher, who also teaches.  
+jaeho-lee (at) kaist.ac.kr
+"""
 #logo = "images/rice.svg"
 
 # Sidebar: social links
@@ -27,14 +29,15 @@ description = "Machine learning researcher (who also teaches)."
 # * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
 
 [[params.socialLinks]]
+icon = "fas fa-envelope"
+title = "Email"
+url = "mailto:jaeho-lee@kaist.ac.kr"
+
+[[params.socialLinks]]
 icon = "fab fa-twitter"
 title = "Twitter"
 url = "https://twitter.com/jaeho_lee_"
 
-[[params.socialLinks]]
-icon = "fas fa-envelope"
-title = "Email"
-url = "mailto:jaeho-lee@kaist.ac.kr"
 
 #[[params.socialLinks]]
 #icon = "ai ai-google-scholar"
@@ -62,38 +65,7 @@ url = "/misc/"
 weight = 3
 
 
-#[taxonomies]
-#category = "categories"
-#tag = "tags"
-#series = "series"
-
 # For hugo >= 0.60.0, enable inline HTML
 [markup.goldmark.renderer]
 unsafe = true
 
-#[privacy]
-
-#  [privacy.vimeo]
-#    disabled = false
-#    simple = true
-
-#  [privacy.twitter]
-#    disabled = false
-#    enableDNT = true
-#    simple = true
-
-#  [privacy.instagram]
-#    disabled = false
-#    simple = true
-
-#  [privacy.youtube]
-#    disabled = false
-#    privacyEnhanced = true
-
-#[services]
-
-#  [services.instagram]
-#    disableInlineCSS = true
-
-#  [services.twitter]
-#    disableInlineCSS = true
