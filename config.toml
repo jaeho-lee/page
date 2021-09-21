@@ -18,7 +18,7 @@ mode = "light-mode"
 # Sidebar: about/bio
 [params.about]
 title = "Jaeho Lee"
-description = """Machine learning researcher, who also teaches.
+description = """ML researcher who also teaches.
 jaeho-lee (at) kaist.ac.kr
 """
 #logo = "images/rice.svg"
