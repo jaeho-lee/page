@@ -18,7 +18,7 @@ mode = "light-mode"
 # Sidebar: about/bio
 [params.about]
 title = "Jaeho Lee"
-description = """Machine learning researcher, who also teaches.  
+description = """Machine learning researcher, who also teaches.
 jaeho-lee (at) kaist.ac.kr
 """
 #logo = "images/rice.svg"
@@ -53,9 +53,9 @@ url = "/papers/"
 weight = 1
 
 [[menu.main]]
-identifier = "students"
-name = "Prospective Students"
-url = "/candidates/"
+identifier = "withme"
+name = "Work with me?"
+url = "/withme/"
 weight = 2
 
 [[menu.main]]
@@ -68,4 +68,3 @@ weight = 3
 # For hugo >= 0.60.0, enable inline HTML
 [markup.goldmark.renderer]
 unsafe = true
-

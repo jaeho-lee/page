@@ -2,6 +2,8 @@
 title = "Misc."
 +++
 
+<br/>
+
 Here are some other details about me.
 
 # Education

@@ -2,7 +2,9 @@
 title = "Papers"
 +++
 
-I usually publish at ML conferences, e.g., NeurIPS, ICLR, COLT, AAAI. Sometimes I write off-expertise [articles](https://www.dailysignal.com/2013/06/25/greece-austerity-doesnt-involve-public-sector-layoffs/), too.
+<br/>
+
+I usually publish at ML conferences. `(e.g., NeurIPS/ICML/ICLR/COLT)` Sometimes I also write off-expertise [articles](https://www.dailysignal.com/2013/06/25/greece-austerity-doesnt-involve-public-sector-layoffs/), too.
 
 ------
 
@@ -28,7 +30,7 @@ ICLR 2021
 
 [**Minimum width for universal approximation**](https://openreview.net/forum?id=O-XJwyoIF-k)  
 Sejun Park, Chulhee Yun, **JL**, and Jinwoo Shin  
-ICLR 2021 _Spotlight_ (also at [Deepmath 2020](https://deepmath-conference.com))  
+ICLR 2021 `spotlight` (also at [Deepmath 2020](https://deepmath-conference.com))  
 
 [**MASKER: Masked keyword regularization for reliable text generation**](https://ojs.aaai.org/index.php/AAAI/article/view/17601)  
 {Seung Jun Moon, Sangwoo Mo}<sub>eq</sub>, Kimin Lee, **JL**, and Jinwoo Shin  
@@ -52,7 +54,7 @@ SIMODS 2019
 
 [**Minimax statistical learning with Wasserstein distances**](https://proceedings.neurips.cc/paper/2018/hash/ea8fcd92d59581717e06eb187f10666d-Abstract.html)  
 **JL** and Maxim Raginsky  
-NeurIPS 2018 _Spotlight_  
+NeurIPS 2018 `spotlight`  
 
 [**On MMSE estimation from quantized observations in the nonasymptotic regime**](https://ieeexplore.ieee.org/document/7282992)  
 **JL**, Maxim Raginsky, and Pierre Moulin  
