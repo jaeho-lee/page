@@ -9,8 +9,8 @@ __🔥RECRUITING🔥__
 
 
 # RESEARCH
-I am broadly interested in theoretical & algorithmic aspects of ML. My recent research focus is on **Efficient Deep Learning.** In particular, in my recent works I try to
-- Design neat DL algorithms with small memory/computation footprints
+I am broadly interested in theoretical & algorithmic aspects of ML. My recent research focus is on **Efficient Deep Learning.** In particular, my latest works aim to
+- Train deep models with small memory/computational footprints
 - Understand theoretical properties of resource-constrained learning algorithms.
 
 I have also worked on the topics of **Machine Bias** and **Robust ML**. See my [papers](/papers/) to find out more.
@@ -19,5 +19,5 @@ I have also worked on the topics of **Machine Bias** and **Robust ML**. See my [
 
 # BIO
 
-I am an ML researcher at [ALIN@KAIST](https://alinlab.kaist.ac.kr), working with the venerable [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html). Before coming to Daejeon, I completed my Ph.D. studies at the lovely cornfields of [UIUC](https://illinois.edu), under the supervision of the glorious [Maxim Raginsky](http://maxim.ece.illinois.edu).
+I am an ML researcher at [ALIN@KAIST](https://alinlab.kaist.ac.kr), working with the venerable [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html). Before coming back to Daejeon, I completed my Ph.D. studies at the lovely cornfields of [UIUC](https://illinois.edu), under the supervision of the glorious [Maxim Raginsky](http://maxim.ece.illinois.edu).
 
