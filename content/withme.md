@@ -30,7 +30,7 @@ Here are some other buzzwords that interest me the most: *TinyML,* *Learning The
 # GROUP LOGISTICS
 The dust is yet to be settled, but here are some plans.  
 
-- **Weekly meetings:** I would try my best to meet each student at least once a week. These meetings could be about either high-level research directions and/or low-level technical discussions. I would be also happy to have (an arbitrary number of) additional casual meetings if you want to give me quick updates, want quick comments, or literally anything else (including personal matters); just send me a message!  
+- **Weekly individual meetings:** I would try my best to meet each student at least once a week. These meetings could be about either high-level research directions and/or low-level technical discussions. I would be also happy to have (an arbitrary number of) additional casual meetings if you want to give me quick updates, want quick comments, or literally anything else (including personal matters); just send me a message!  
 
 - **Biannual check-ups:** At the end of each semester, I will additionally schedule one-on-one meetings for every students to have high-level discussions about your progress, career plans, and the assistance you expect from me as an advisor (for instance, we can fill out documents like [these](https://graduatedivision.ucmerced.edu/sites/graduatedivision.ucmerced.edu/files/page/documents/expectation_scales.pdf)).
 
