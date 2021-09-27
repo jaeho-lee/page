@@ -4,8 +4,9 @@
 `I design algorithms and prove theorems.`
 
 __🔥RECRUITING🔥__  
-**Starting in March 2022, I am joining [POSTECH EE](https://ee.postech.ac.kr) as an assistant professor**. If you are interested in working with me, please visit [this page](https://jaeho-lee.github.io/candidates/).
+**Starting in March 2022, I am joining [POSTECH EE](https://ee.postech.ac.kr) as an assistant professor**. If you are interested in working with me, please visit [here](https://jaeho-lee.github.io/candidates/).
 
+_<small>Note: Trying my best to reply to all emails, but it is getting very difficult to do so. Sorry in advance if I miss your mail!</small>_
 
 
 # RESEARCH

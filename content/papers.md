@@ -6,6 +6,8 @@ title = "PAPERS"
 
 I usually publish at ML conferences. `(e.g., NeurIPS/ICML/ICLR/COLT)` Sometimes I write off-expertise [articles](https://www.dailysignal.com/2013/06/25/greece-austerity-doesnt-involve-public-sector-layoffs/), too.
 
+
+
 ------
 
 **Meta-learning sparse implicit neural representations**  
@@ -16,7 +18,7 @@ Preprint; preliminary version at [SNN 2021](https://sites.google.com/view/sparsi
 Vinoth Nandakumar, and **JL**  
 [SNN 2021](https://sites.google.com/view/sparsity-workshop-2021/)  
 
-[**Co<sup>2</sup>L: Contrastive continual learning**](https://arxiv.org/abs/2106.14413)  
+[**Co<sup><small>2</small></sup>L: Contrastive continual learning**](https://arxiv.org/abs/2106.14413)  
 Hyuntak Cha, **JL**, and Jinwoo Shin  
 ICCV 2021  
 
