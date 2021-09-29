@@ -10,9 +10,9 @@ I usually publish at ML conferences. `(e.g., NeurIPS/ICML/ICLR/COLT)` Sometimes 
 
 ------
 
-**Meta-learning sparse implicit neural representations**  
-**JL**, Jihoon Tack, Namhoon Lee, and Jinwoo Shin  
-Preprint; preliminary version at [SNN 2021](https://sites.google.com/view/sparsity-workshop-2021/)  
+[**Meta-learning sparse implicit neural representations**](https://openreview.net/forum?id=Tn0PnRY877g) <small>(the link may not work yet)</small>  
+{**JL**, Jihoon Tack}<sub><small>eq</small></sub>, Namhoon Lee, and Jinwoo Shin  
+NeurIPS 2021 (also at [SNN 2021](https://sites.google.com/view/sparsity-workshop-2021/))  
 
 **GreedyPrune: Layer-wise optimization algorithms for magnitude-based pruning**  
 Vinoth Nandakumar, and **JL**  
