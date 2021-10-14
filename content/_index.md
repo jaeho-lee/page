@@ -3,22 +3,22 @@
 
 `I design algorithms and prove theorems.`
 
-__🔥RECRUITING🔥__  
-**Starting in March 2022, I am joining [POSTECH EE](https://ee.postech.ac.kr) as an assistant professor**. If you are interested in working with me, please visit [here](https://jaeho-lee.github.io/candidates/).
 
-_<small>Note: Trying my best to reply to all emails, but it is getting very difficult to do so. Sorry in advance if I miss your mail!</small>_
+I am a soon-to-join assistant professor at [POSTECH EE](https://ee.postech.ac.kr) who's trying to __Make ML Efficient__ with algorithms and theories.
 
+If you are interested in working with me, please visit [here](/withme/).
 
 # RESEARCH
-I am broadly interested in theoretical & algorithmic aspects of ML. My recent research focus is on **Efficient Deep Learning.** In particular, my latest works aim to
-- Train deep models with small memory/computational footprints
-- Understand theoretical properties of resource-constrained learning algorithms.
 
-I have also worked on the topics of **Machine Bias** and **Robust ML**. See my [papers](/papers/) to find out more.
+Most of my research revolves around one message: _**You Should Make Your Learner Smaller!**_
+- Some papers give algorithms to train deep models with small memory/compute footprints.
+- Some theoretically analyzes how small can these models be.
+- Other theoretical papers investigates what happens when you _constrain_ your learning space with robustness/fairness constraints.
 
-
+To find out more, please see my [papers](/papers/).
 
 # BIO
+Currently I am an ML researcher at KAIST, working with the venerable [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html). Before coming to Daejeon, I completed my Ph.D. studies at the lovely cornfields of UIUC, under the supervision of the glorious [Maxim Raginsky](http://maxim.ece.illinois.edu).
 
-I am an ML researcher at [ALIN@KAIST](https://alinlab.kaist.ac.kr), working with the venerable [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html). Before coming back to Daejeon, I completed my Ph.D. studies at the lovely cornfields of [UIUC](https://illinois.edu), under the supervision of the glorious [Maxim Raginsky](http://maxim.ece.illinois.edu).
+
 
