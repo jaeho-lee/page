@@ -10,7 +10,7 @@ I usually publish at ML conferences. `(e.g., NeurIPS/ICML/ICLR/COLT)` Sometimes 
 
 ------
 
-[**Meta-learning sparse implicit neural representations**](https://openreview.net/forum?id=Tn0PnRY877g) <small>(the link may not work yet)</small>  
+[**Meta-learning sparse implicit neural representations**](http://arxiv.org/abs/2110.14678) 
 {**JL**, Jihoon Tack}<sub><small>eq</small></sub>, Namhoon Lee, and Jinwoo Shin  
 NeurIPS 2021 (also at [SNN 2021](https://sites.google.com/view/sparsity-workshop-2021/))  
 
