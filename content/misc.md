@@ -23,6 +23,7 @@ Here are some other details about me.
 **FA15** TA, ECE598@UIUC [Statistical learning theory](http://maxim.ece.illinois.edu/teaching/fall15b/index.html).
 
 # SELECTED TALKS
+- "A search for a smaller neural networks... hiding inside a bigger net," Keynote at KAIST AI workshop 21/22, Jan 2022.  
 - "Learning guarantees under distributional shifts: Wasserstein perturbation and Conditional Value-at-Risk," IFORS, August 2021.  
 - "Approximation power of neural networks: old and new," UNIST AI, May 2021.
 - "Learning bounds for risk-sensitive learning," NeurIPS social: ML in Korea, Dec 2020.
