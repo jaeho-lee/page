@@ -9,8 +9,12 @@ I usually publish at ML conferences. `(e.g., NeurIPS/ICML/ICLR/COLT)` Sometimes 
 
 
 ------
+[**Spread spurious attribute: Improving worst-group accuracy with spurious attribute estimation**](https://openreview.net/forum?id=_F9xpOrqyX9)  
+Junhyun Nam, Jaehyung Kim, Jinwoo Shin, and **JL**  
+ICLR 2022  
 
-[**Meta-learning sparse implicit neural representations**](http://arxiv.org/abs/2110.14678)  
+
+[**Meta-learning sparse implicit neural representations**](https://openreview.net/forum?id=Tn0PnRY877g)  
 {**JL**, Jihoon Tack}<sub><small>eq</small></sub>, Namhoon Lee, and Jinwoo Shin  
 NeurIPS 2021 (also at [SNN 2021](https://sites.google.com/view/sparsity-workshop-2021/))  
 
@@ -18,7 +22,7 @@ NeurIPS 2021 (also at [SNN 2021](https://sites.google.com/view/sparsity-workshop
 Vinoth Nandakumar, and **JL**  
 [SNN 2021](https://sites.google.com/view/sparsity-workshop-2021/)  
 
-[**Co<sup><small>2</small></sup>L: Contrastive continual learning**](https://arxiv.org/abs/2106.14413)  
+[**Co<sup><small>2</small></sup>L: Contrastive continual learning**](https://openaccess.thecvf.com/content/ICCV2021/html/Cha_Co2L_Contrastive_Continual_Learning_ICCV_2021_paper.html)  
 Hyuntak Cha, **JL**, and Jinwoo Shin  
 ICCV 2021  
 
