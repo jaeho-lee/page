@@ -4,7 +4,7 @@ title = "FOR PROSPECTIVE STUDENTS"
 
 <br/>
 
-I have **multiple openings** for graduate students at all levels.
+I am looking for graduate students at all levels.
 
 ---
 
