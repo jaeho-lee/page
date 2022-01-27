@@ -3,9 +3,8 @@ title = "WORK WITH ME?"
 +++
 <br/>
 
-Thank you for your interest!  
+I am always looking for self-motivated **graduate students** and **postdocs** who are interested in making ML more efficient.
 
-I am looking for self-motivated **graduate students** and **postdocs** interested in developing ML theories and algorithms. Together, we will kickstart a research group at POSTECH EE, starting March 2022.
 
 # TL;DR
 Please send me an email right away: __jaeho-lee (at) kaist.ac.kr__  

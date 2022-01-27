@@ -10,7 +10,7 @@ I usually publish at ML conferences. `(e.g., NeurIPS/ICML/ICLR/COLT)` Sometimes 
 
 ------
 [**Spread spurious attribute: Improving worst-group accuracy with spurious attribute estimation**](https://openreview.net/forum?id=_F9xpOrqyX9)  
-Junhyun Nam, Jaehyung Kim, Jinwoo Shin, and **JL**  
+Junhyun Nam, Jaehyung Kim, **JL**, and Jinwoo Shin  
 ICLR 2022  
 
 
