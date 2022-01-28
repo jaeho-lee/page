@@ -4,14 +4,14 @@
 `I design algorithms and prove theorems.`
 
 
-I am a soon-to-join assistant professor at [POSTECH EE](https://ee.postech.ac.kr) who's trying to __make ML Efficient.__ If you are interested in working with me, please visit [here](/withme/).
+I am a soon-to-join assistant professor at [POSTECH EE](https://ee.postech.ac.kr) who's trying to __make ML efficient.__ If you are interested in working with me, please visit [here](/withme/).
 
 # RESEARCH
 
-Most of my works revolves around one message: _**Make Your Learner Smaller!**_
-- Some papers give algorithms to train deep models with small memory/compute footprints.
-- Some theoretically analyzes how small can these models be.
-- Other theoretical papers investigates what happens when you _constrain_ your learning space with robustness/fairness constraints.
+Most of my works are about _**squishing ML models,**_ e.g.,
+- algorithms to squish deep models for smaller memory/compute footprints.
+- theories about how much one can squish.
+- analysis on what happens when you _squish_ the learning procedure with robustness/fairness constraints.
 
 To find out more, please see my [papers](/papers/).
 
