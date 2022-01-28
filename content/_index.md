@@ -8,7 +8,7 @@ I am a soon-to-join assistant professor at [POSTECH EE](https://ee.postech.ac.kr
 
 # RESEARCH
 
-Most of my works revolves around one message: _**You Should Make Your Learner Smaller!**_
+Most of my works revolves around one message: _**Make Your Learner Smaller!**_
 - Some papers give algorithms to train deep models with small memory/compute footprints.
 - Some theoretically analyzes how small can these models be.
 - Other theoretical papers investigates what happens when you _constrain_ your learning space with robustness/fairness constraints.
