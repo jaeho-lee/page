@@ -16,7 +16,7 @@ Most of my works are about _**squishing ML models,**_ e.g.,
 To find out more, please see my [papers](/papers/).
 
 # BIO
-Currently I am an ML researcher at KAIST, working with the venerable [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html). Before coming to Daejeon, I completed my Ph.D. studies at the lovely cornfields of UIUC, under the supervision of the glorious [Maxim Raginsky](http://maxim.ece.illinois.edu).
+Currently I am an ML researcher at KAIST, working with the venerable [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html). Before arriving Daejeon, I completed my Ph.D. studies at the lovely cornfields of UIUC, under the supervision of the glorious [Maxim Raginsky](http://maxim.ece.illinois.edu).
 
 
 
