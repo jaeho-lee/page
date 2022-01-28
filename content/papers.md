@@ -4,7 +4,7 @@ title = "PAPERS"
 
 <br/>
 
-I usually publish at ML conferences. `(e.g., NeurIPS/ICML/ICLR/COLT)` Sometimes I write off-expertise [articles](https://www.dailysignal.com/2013/06/25/greece-austerity-doesnt-involve-public-sector-layoffs/), too.
+I usually publish at ML conferences. Sometimes I write off-expertise [articles](https://www.dailysignal.com/2013/06/25/greece-austerity-doesnt-involve-public-sector-layoffs/), too.
 
 
 

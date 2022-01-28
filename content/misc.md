@@ -10,7 +10,7 @@ Here are some other details about me.
 
 **Ph.D. (2019)** ECE@UIUC (Advisor: Maxim Raginsky)  
 **M.S. (2015)** ECE@UIUC (Advisor: Maxim Raginsky)  
-**B.S. (2013)** {EE,MS}<small>[^1]</small>@KAIST (Advisor: Yung Yi) `summa cum laude` 
+**B.S. (2013)** {EE,MS}<small>[^1]</small>@KAIST (Advisor: Yung Yi) summa cum laude 
 
 # EMPLOYMENTS
 
