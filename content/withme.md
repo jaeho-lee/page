@@ -12,10 +12,16 @@ Please send me an email right away: __jaeho-lee (at) kaist.ac.kr__
 
 ---
 
-Here are some details about what our research group is going to be like.
-
+Here are some details about what our research group---which I call EffL---is like (at least I hope so).
 
 # RESEARCH TOPICS
+
+You are expected to have your own research agenda
+
+Rule#1: You should have your own research agenda.  
+Rule#2: If it is about efficient ML, I may be a better discussion partner.  
+
+
 Let me make it clear: You are expected to have your own research agenda. You should lead your own project on _"any ML-related topic"_ that interests you the most. I have broad interests, and I will spend enough time to make myself a worthy discussion partner.
 
 I have my own short-term goals as well. To list some of them:

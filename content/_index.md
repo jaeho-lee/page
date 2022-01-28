@@ -4,9 +4,7 @@
 `I design algorithms and prove theorems.`
 
 
-I am a soon-to-join assistant professor at [POSTECH EE](https://ee.postech.ac.kr) who's trying to __Make ML Efficient.__
-
-If you are interested in working with me, please visit [here](/withme/).
+I am a soon-to-join assistant professor at [POSTECH EE](https://ee.postech.ac.kr) who's trying to __Make ML Efficient.__ If you are interested in working with me, please visit [here](/withme/).
 
 # RESEARCH
 
