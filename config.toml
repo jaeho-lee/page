@@ -19,7 +19,7 @@ mode = "light-mode"
 [params.about]
 title = "Jaeho Lee"
 description = """ML researcher who also teaches.
-jaeho-lee (at) kaist.ac.kr
+(firstname).(lastname) (at) postech.ac.kr
 """
 #logo = "images/rice.svg"
 
@@ -31,7 +31,7 @@ jaeho-lee (at) kaist.ac.kr
 [[params.socialLinks]]
 icon = "fas fa-envelope"
 title = "Email"
-url = "mailto:jaeho-lee@kaist.ac.kr"
+url = "mailto:jaeho.lee@postech.ac.kr"
 
 [[params.socialLinks]]
 icon = "fab fa-twitter"
