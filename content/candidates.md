@@ -28,8 +28,10 @@ I wish this research group to be a place where we learn from each others' unique
 
 # HOW TO APPLY
 
-**Step 1.** Please send me an email with **a CV (or equivalent) and the official transcript** attached.
+**Step 1.** Please send me an email with **a CV (or equivalent) and the official transcript** attached. You can ask any question about my recruiting plans.
 
 **Step 2.** You should apply to the [EE@POSTECH](https://ee.postech.ac.kr/admission/graduate-school/) directly before the deadline; there is a department-level screening procedure.
+
+**Step 3.** After the screening, there would be a formal interview. This year, there would be two things that I'll ask you to do. (1) *SOP:* Before the interview, write and send me a half-page "Statement of Purpose" (in English) that describes your research background and interests. (2) *Technical Interview:* During the interview, I would ask some technical questions, regarding math/coding/ee/etc (but you don't really need to be an EE undergrad to apply to me).
 
 [^1]: This is extremely useful even for theoreticians, as you can often test if your claim is true, even before actually trying to prove it. Also, if you can show that your theory is actually useful in explaining the practice (which rarely happens in ML), your work can bring a humongous impact.
