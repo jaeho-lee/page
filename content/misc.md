@@ -4,7 +4,7 @@ title = "MISC."
 
 <br/>
 
-Here are some other details about me.
+Here are some boring details about me.
 
 # EDUCATION
 
