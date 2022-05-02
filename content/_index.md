@@ -3,7 +3,7 @@
 
 `I design algorithms and prove theorems.`
 
-I am a (noob) assistant professor at POSTECH EE, who's trying to __make ML more efficient.__
+I am a (noob) assistant professor at POSTECH EE (also at Graduat School of AI), who's trying to __make ML more efficient.__
 
 If you are here for the graduate school admissions, please take a look at the [EffL group webpage](https://effl.notion.site).
 
